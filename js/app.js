@@ -58,7 +58,7 @@
       const filtered = computed(function () {
         const q = search.value.trim().toLowerCase();
         const qRaw = search.value.trim();
-        return words.value.filter(function (w) {
+        const list = words.value.filter(function (w) {
           const matchQuery =
             !q ||
             w.word.toLowerCase().includes(q) ||
@@ -68,6 +68,17 @@
           });
           return matchQuery && matchTags;
         });
+        if (q) {
+          list.sort(function (a, b) {
+            const aw = a.word.toLowerCase();
+            const bw = b.word.toLowerCase();
+            const ap = aw.startsWith(q) ? 0 : 1;
+            const bp = bw.startsWith(q) ? 0 : 1;
+            if (ap !== bp) return ap - bp;
+            return aw < bw ? -1 : aw > bw ? 1 : 0;
+          });
+        }
+        return list;
       });
 
       function tagColor(t) {
