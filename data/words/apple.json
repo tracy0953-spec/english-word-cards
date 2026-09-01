@@ -1,0 +1,14 @@
+{
+  "id": "apple",
+  "word": "apple",
+  "phonetic": "/ˈæpəl/",
+  "pos": "n.",
+  "family": "apple",
+  "tags": ["高频", "通用", "描述事物", "生活", "雅思听力"],
+  "meaning": "苹果",
+  "examples": [
+    { "en": "She eats an apple every morning before work.", "zh": "她每天早上上班前吃一个苹果。" },
+    { "en": "Could you pick up a few apples at the store on your way home?", "zh": "你回家路上能在商店买几个苹果吗？" }
+  ],
+  "derivatives": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "happily",
+  "word": "happily",
+  "phonetic": "/ˈhæpɪli/",
+  "pos": "adv.",
+  "family": "happy",
+  "morph": "-ly 副词后缀（形容词→副词，y 变 i 加 ly）",
+  "tags": ["中频", "通用", "情绪感受", "生活", "词性变化"],
+  "meaning": "快乐地；高兴地；乐意地；幸运地",
+  "examples": [
+    { "en": "They lived happily ever after.", "zh": "他们从此幸福地生活在一起。" },
+    { "en": "I'd happily help you move this weekend — just say the word.", "zh": "这周末我很乐意帮你搬家，说一声就行。" }
+  ],
+  "derivatives": []
+}

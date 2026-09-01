@@ -1,0 +1,14 @@
+{
+  "id": "happy",
+  "word": "happy",
+  "phonetic": "/ˈhæpi/",
+  "pos": "adj.",
+  "family": "happy",
+  "tags": ["高频", "偏口语", "情绪感受", "描述人物", "生活", "雅思口语", "词性变化"],
+  "meaning": "快乐的；高兴的；幸福的；满意的",
+  "examples": [
+    { "en": "I'm so happy to see you — it's been ages!", "zh": "见到你太开心了，好久不见！" },
+    { "en": "She felt really happy with her exam results.", "zh": "她对自己的考试成绩感到很满意。" }
+  ],
+  "derivatives": []
+}

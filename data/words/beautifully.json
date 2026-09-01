@@ -1,0 +1,15 @@
+{
+  "id": "beautifully",
+  "word": "beautifully",
+  "phonetic": "/ˈbjuːtɪfli/",
+  "pos": "adv.",
+  "family": "beautiful",
+  "morph": "-ly 副词后缀（形容词→副词）",
+  "tags": ["中频", "通用", "观点评价", "文化艺术", "词性变化"],
+  "meaning": "美丽地；漂亮地；出色地",
+  "examples": [
+    { "en": "She sings beautifully, even better than she did last year.", "zh": "她唱歌很动听，比去年唱得还好。" },
+    { "en": "The whole plan worked beautifully from start to finish.", "zh": "整个计划从头到尾执行得非常顺利。" }
+  ],
+  "derivatives": []
+}

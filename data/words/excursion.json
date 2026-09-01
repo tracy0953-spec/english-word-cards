@@ -1,0 +1,30 @@
+{
+  "id": "excursion",
+  "word": "excursion",
+  "phonetic": "/ɪkˈskɜːrʒn/",
+  "pos": "n.",
+  "family": "excursion",
+  "tags": [
+    "中频",
+    "通用",
+    "交通旅行",
+    "生活",
+    "雅思听力"
+  ],
+  "meaning": "（尤指团体的）短途旅行；远足；游览",
+  "examples": [
+    {
+      "en": "Are you joining the excursion to the wine country this weekend?",
+      "zh": "这周末去葡萄酒乡的短途游你参加吗？"
+    },
+    {
+      "en": "The resort organizes daily excursions to the nearby islands and temples.",
+      "zh": "度假村每天都组织去附近岛屿和寺庙的游览。"
+    },
+    {
+      "en": "We went on a day excursion to the coast while we were on holiday.",
+      "zh": "度假期间我们去海边玩了一日游。"
+    }
+  ],
+  "derivatives": []
+}

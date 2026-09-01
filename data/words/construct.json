@@ -1,0 +1,26 @@
+{
+  "id": "construct",
+  "word": "construct",
+  "phonetic": "/kənˈstrʌkt/",
+  "pos": "v.",
+  "family": "construct",
+  "tags": [
+    "中频",
+    "通用",
+    "日常动作",
+    "工作",
+    "科技"
+  ],
+  "meaning": "建造；构筑；创立（理论、体系）",
+  "examples": [
+    {
+      "en": "They're planning to construct a new bridge over the river.",
+      "zh": "他们正计划在河上建一座新桥。"
+    },
+    {
+      "en": "It took years to construct a theory that actually fits the data.",
+      "zh": "花了好多年才构建出一个真正符合数据的理论。"
+    }
+  ],
+  "derivatives": []
+}

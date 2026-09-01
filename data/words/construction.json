@@ -1,0 +1,27 @@
+{
+  "id": "construction",
+  "word": "construction",
+  "phonetic": "/kənˈstrʌkʃən/",
+  "pos": "n.",
+  "family": "construct",
+  "morph": "-ion 名词后缀（动词→名词，表行为/结果）",
+  "tags": [
+    "高频",
+    "通用",
+    "描述事物",
+    "工作",
+    "词性变化"
+  ],
+  "meaning": "建设；建造；建筑物；结构",
+  "examples": [
+    {
+      "en": "The new hospital is still under construction.",
+      "zh": "新医院还在建设中。"
+    },
+    {
+      "en": "The construction of the sentence is a bit awkward.",
+      "zh": "这个句子的结构有点别扭。"
+    }
+  ],
+  "derivatives": []
+}

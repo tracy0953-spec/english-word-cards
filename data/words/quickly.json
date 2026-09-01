@@ -1,0 +1,15 @@
+{
+  "id": "quickly",
+  "word": "quickly",
+  "phonetic": "/ˈkwɪkli/",
+  "pos": "adv.",
+  "family": "quick",
+  "morph": "-ly 副词后缀（形容词→副词）",
+  "tags": ["高频", "通用", "日常动作", "变化趋势", "工作", "词性变化"],
+  "meaning": "迅速地；很快地；不久",
+  "examples": [
+    { "en": "Time goes by so quickly when you're having fun.", "zh": "玩得开心的时候，时间过得飞快。" },
+    { "en": "Could you reply quickly? We need an answer today.", "zh": "你能快点回复吗？我们今天就要结果。" }
+  ],
+  "derivatives": []
+}
