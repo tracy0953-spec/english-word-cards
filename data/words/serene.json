@@ -1,0 +1,26 @@
+{
+  "id": "serene",
+  "word": "serene",
+  "phonetic": "/səˈriːn/",
+  "pos": "adj.",
+  "family": "serene",
+  "tags": [
+    "中频",
+    "通用",
+    "情绪感受",
+    "生活",
+    "雅思写作"
+  ],
+  "meaning": "平静的；宁静的；安详的（环境或人的神情）",
+  "examples": [
+    {
+      "en": "She looked calm and serene before the interview.",
+      "zh": "面试前她看起来从容而平静。"
+    },
+    {
+      "en": "We spent a serene evening by the lake.",
+      "zh": "我们在湖边度过了一个宁静的夜晚。"
+    }
+  ],
+  "derivatives": []
+}

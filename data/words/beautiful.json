@@ -4,11 +4,25 @@
   "phonetic": "/ˈbjuːtɪfl/",
   "pos": "adj.",
   "family": "beautiful",
-  "tags": ["高频", "偏口语", "观点评价", "描述事物", "文化艺术", "雅思口语", "词性变化"],
+  "tags": [
+    "高频",
+    "偏口语",
+    "观点评价",
+    "描述事物",
+    "文化艺术",
+    "雅思口语",
+    "词性变化"
+  ],
   "meaning": "美丽的；漂亮的；出色的；极好的",
   "examples": [
-    { "en": "What a beautiful day — let's go to the park!", "zh": "天气真好，我们去公园吧！" },
-    { "en": "The garden looks beautiful when the roses are in bloom.", "zh": "玫瑰盛开时，花园看起来美极了。" }
+    {
+      "en": "What a beautiful day — let's go to the park!",
+      "zh": "天气真好，我们去公园吧！"
+    },
+    {
+      "en": "The garden looks beautiful when the roses are in bloom.",
+      "zh": "玫瑰盛开时，花园看起来美极了。"
+    }
   ],
   "derivatives": []
 }

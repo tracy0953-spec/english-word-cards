@@ -3,11 +3,25 @@
   "word": "look forward to",
   "pos": "phr.",
   "family": "look-forward-to",
-  "tags": ["高频", "通用", "人际交流", "工作", "固定搭配", "雅思写作", "雅思口语"],
+  "tags": [
+    "高频",
+    "通用",
+    "人际交流",
+    "工作",
+    "固定搭配",
+    "雅思写作",
+    "雅思口语"
+  ],
   "meaning": "期待；盼望（to 为介词，后接名词或动名词）",
   "examples": [
-    { "en": "I'm looking forward to hearing from you soon.", "zh": "期待尽快收到你的回复。" },
-    { "en": "We're really looking forward to the trip next week!", "zh": "我们特别期待下周的旅行！" }
+    {
+      "en": "I'm looking forward to hearing from you soon.",
+      "zh": "期待尽快收到你的回复。"
+    },
+    {
+      "en": "We're really looking forward to the trip next week!",
+      "zh": "我们特别期待下周的旅行！"
+    }
   ],
   "derivatives": []
 }

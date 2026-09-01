@@ -1,0 +1,46 @@
+{
+  "id": "skeptical",
+  "word": "skeptical",
+  "phonetic": "/ˈskeptɪkl/",
+  "pos": "adj.",
+  "family": "skeptical",
+  "tags": [
+    "中频",
+    "通用",
+    "态度立场",
+    "雅思口语",
+    "雅思写作"
+  ],
+  "meaning": "怀疑的；持怀疑态度的（不轻信）",
+  "examples": [
+    {
+      "en": "I'm pretty skeptical about his promise to finish everything by Friday.",
+      "zh": "他说周五前能全部搞定，我对此挺怀疑的。"
+    },
+    {
+      "en": "Scientists remain skeptical that the new drug has any real effect.",
+      "zh": "科学家们仍然怀疑这种新药是否真有效果。"
+    },
+    {
+      "en": "She gave him a skeptical look when he claimed he'd never played before.",
+      "zh": "他声称自己以前从没玩过时，她怀疑地看了他一眼。"
+    }
+  ],
+  "derivatives": [
+    {
+      "word": "skeptic",
+      "phonetic": "/ˈskeptɪk/",
+      "meaning": "n. 持怀疑态度的人；怀疑论者"
+    },
+    {
+      "word": "skepticism",
+      "phonetic": "/ˈskeptɪsɪzəm/",
+      "meaning": "n. 怀疑态度；怀疑论"
+    },
+    {
+      "word": "skeptically",
+      "phonetic": "/ˈskeptɪkli/",
+      "meaning": "adv. 怀疑地；不相信地"
+    }
+  ]
+}

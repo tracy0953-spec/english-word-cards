@@ -5,11 +5,23 @@
   "pos": "n.",
   "family": "happy",
   "morph": "-ness 名词后缀（形容词→名词，表状态/性质，y 变 i 加 ness）",
-  "tags": ["中频", "偏书面", "情绪感受", "雅思写作", "词性变化"],
+  "tags": [
+    "中频",
+    "偏书面",
+    "情绪感受",
+    "雅思写作",
+    "词性变化"
+  ],
   "meaning": "幸福；快乐；满足",
   "examples": [
-    { "en": "Money alone doesn't bring happiness.", "zh": "单凭金钱带不来幸福。" },
-    { "en": "Her eyes were full of happiness when she held her baby.", "zh": "她抱着宝宝时，眼中满是幸福。" }
+    {
+      "en": "Money alone doesn't bring happiness.",
+      "zh": "单凭金钱带不来幸福。"
+    },
+    {
+      "en": "Her eyes were full of happiness when she held her baby.",
+      "zh": "她抱着宝宝时，眼中满是幸福。"
+    }
   ],
   "derivatives": []
 }

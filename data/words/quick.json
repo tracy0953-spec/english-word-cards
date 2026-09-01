@@ -4,11 +4,24 @@
   "phonetic": "/kwɪk/",
   "pos": "adj.",
   "family": "quick",
-  "tags": ["高频", "偏口语", "日常动作", "数量程度", "生活", "词性变化"],
+  "tags": [
+    "高频",
+    "偏口语",
+    "日常动作",
+    "数量程度",
+    "生活",
+    "词性变化"
+  ],
   "meaning": "快的；迅速的；短暂的；敏捷的",
   "examples": [
-    { "en": "Let's grab a quick bite before the movie starts.", "zh": "电影开始前我们赶紧吃点东西吧。" },
-    { "en": "She gave a quick answer without even thinking.", "zh": "她想都没想就迅速给出了回答。" }
+    {
+      "en": "Let's grab a quick bite before the movie starts.",
+      "zh": "电影开始前我们赶紧吃点东西吧。"
+    },
+    {
+      "en": "She gave a quick answer without even thinking.",
+      "zh": "她想都没想就迅速给出了回答。"
+    }
   ],
   "derivatives": []
 }
